@@ -27,6 +27,7 @@ def checkPath(choosenPath):
 
   if choosenPath == str(correctPath):
     print("You were right! It is Prancing Pony where your buddy Frodo caused quite a stir!")
+    print("Welcome home, little Shireling!")
   else:
     print()
     print("Ahh! The pub is a watering hole for a bunch of urukai!")
